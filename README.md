@@ -31,8 +31,6 @@ This repository accompanies the manuscript by Lucas Lipa Matta and Victor M. Nin
 
 Lipa Matta, L., & Victor Nina, M. A. (2027). *Integrated Web Platforms for Administrative Support and Tickets Management in Higher Education: A Systematic Review* [Supplementary data]. DOI: *to be added after Zenodo deposit*.
 
-Victor M. Nina-Alcocer
-
 ## License
 
 Data in this repository: Creative Commons Attribution 4.0 International (CC BY 4.0), consistent with the journal's license.
