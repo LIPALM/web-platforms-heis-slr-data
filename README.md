@@ -1,6 +1,6 @@
 # Supplementary data: Integrated Web Platforms for Administrative Support and Tickets Management in Higher Education: A Systematic Review
 
-This repository accompanies the manuscript by Lucas Lipa Matta and Mario Rolando Chura Ortiz (submitted to the *Journal on Interactive Systems*, JIS). It documents the **41 original articles (AO, studies S1–S41)** included in the review, together with the search strategy and the evidence used in the synthesis. The 10 secondary systematic reviews (SLRs) discussed in the Related Work section are not part of this dataset.
+This repository accompanies the manuscript by Lucas Lipa Matta and Victor M. Nina-Alcocer (submitted to the *Journal on Interactive Systems*, JIS). It documents the **41 original articles (AO, studies S1–S41)** included in the review, together with the search strategy and the evidence used in the synthesis. The 10 secondary systematic reviews (SLRs) discussed in the Related Work section are not part of this dataset.
 
 ## Contents
 
@@ -29,7 +29,9 @@ This repository accompanies the manuscript by Lucas Lipa Matta and Mario Rolando
 
 ## How to cite
 
-Lipa Matta, L., & Chura Ortiz, M. R. (2027). *Integrated Web Platforms for Administrative Support and Tickets Management in Higher Education: A Systematic Review* [Supplementary data]. DOI: *to be added after Zenodo deposit*.
+Lipa Matta, L., & Victor Nina, M. A. (2027). *Integrated Web Platforms for Administrative Support and Tickets Management in Higher Education: A Systematic Review* [Supplementary data]. DOI: *to be added after Zenodo deposit*.
+
+Victor M. Nina-Alcocer
 
 ## License
 
