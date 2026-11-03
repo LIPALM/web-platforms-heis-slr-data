@@ -1,0 +1,31 @@
+﻿Block,Database,Raw_results,Notes (filters / content-type breakdown)
+A,IEEE Xplore,19,
+A,Taylor & Francis Online,74,Research Article 58; Review Article 6; Review 3; Abstract 2; Other 2
+A,ScienceDirect,705,Review articles 69; Research articles 414; Encyclopedias 5; Book chapters 125; Conference abstracts 3; Book reviews 3; Case reports 14; Conference info 6; Data articles 2; Discussion 7; Editorials 7; Product reviews 2; Short communications 7; Other 41
+A,ACM Digital Library,131,
+A,"STEP Academic (stepacademic.net), vol. 6",26,
+A,Springer Nature Link,266,"Chapter 193; Conference paper 87; Article 73; Research article 53; Review article 6; News article 2 (content-type facets overlap, as reported by the platform)"
+A,"ICTACT Journals, vol. 13 issue 1 (Oct 2022)",10,
+B,IEEE Xplore,7,
+B,"PhilSSJ, vol. 8 no. 2",70,
+B,IJSECS,1,
+B,"JESTR, vol. 14 issue 1",25,
+C,ScienceDirect,28955,"Review articles 1,520; Research articles 27,385"
+C,IJRTI,50,
+C,"IJMABER, vol. 7 no. 1",34,
+C,"DinastiRes, vol. 7 no. 2",48,
+D,"Natural Publishing, vol. 11",30,
+D,ACM Digital Library,94,
+D,IEEE Xplore,3,
+D,"Melek IT, vol. 10 no. 1",10,
+E,Frontiers,6087,String E1
+E,"IIETA, vol. 19 no. 4",40,String E1
+E,Wiley Online Library,6637,String E1; 2014-2026; journals filter
+E,ScienceDirect,30061,"String E2; Review article 2,934; Research article 27,127"
+E,MDPI,175,2014-2026
+E,"Privietlab, vol. 6 no. 4",46,
+E,Springer Nature Link,17297,"Chapter 11,575; Article 5,671; Research article 4,685; Conference paper 4,244; Review article 643; Reference work entry 501; Book 35; News article 32; Conference proceedings 19; Collection 14; Call for papers 7; Book series 1; Journal 1 (facets overlap)"
+F,"AIRCC Journals, vol. 9 no. 3",8,
+G,ScienceDirect,41,2014-2027; Review article 8; ResearchGate 33
+G,IEEE Xplore,1,
+SOL,SBC OpenLib,109,"Complementary search, blocks A-G"

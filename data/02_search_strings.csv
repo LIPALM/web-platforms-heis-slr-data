@@ -1,0 +1,11 @@
+﻿Block,Boolean_string,Search_date,Notes
+A,"(""ticket management system"" OR ""IT service desk"" OR ""ITSM"" OR ""help desk system"") AND (""university"" OR ""institution"" OR ""administrative process"") AND (""web"" OR ""web-based"")",2026-08-18,
+B,"(""complaint management system"" OR ""grievance system"" OR ""e-complaint system"") AND (""university"" OR ""student"" OR institution) AND (""web-based"" OR ""online"")",2026-08-18,
+C,"(""queue management system"" OR ""customer flow management"" OR ""service quality"") AND (""satisfaction"" OR ""waiting time"") AND (""institution"" OR ""university"" OR ""public service"")",2026-08-18,
+D,"(""visitor management system"" OR ""access control system"") AND (""institution"" OR ""campus"" OR ""building"") AND (""web-based"" OR ""web application"") NOT (""mobile app"" OR ""native app"" OR ""Android"" OR ""iOS"")",2026-08-18,
+E1,"(""digital transformation"" OR ""integrated information system"" OR ""university information system"") AND (""higher education"" OR ""university"") AND (""administrative"" OR ""governance"" OR ""process"")",2026-08-18,"Used in Frontiers, IIETA, Wiley, Privietlab and Springer Nature Link"
+E2,"(""digital transformation"") AND (""higher education"" OR ""university"") AND (""administrative"" OR ""governance"" OR ""process"")",2026-08-18,Simplified string used in ScienceDirect (filter 2)
+F,"(""contact center"" OR ""WebRTC"" OR ""video call support"") AND (""university"" OR ""education"" OR ""customer service"")",2026-08-18,"String as published in the manuscript (Methods, Block F)"
+F_search_log_variant,"(""video call"" OR ""virtual consultation"" OR ""video-based support"") AND (""customer service"" OR ""virtual attention"" OR ""remote assistance"") AND (""web"" OR ""browser-based"")",2026-08-18,String recorded in the original search log; TO BE CONFIRMED which one was executed
+G,"(""hierarchical approval workflow"" OR ""multi-level approval system"" OR ""workflow validation"") AND (""information system"" OR ""business process"")",2026-08-18,
+SOL (A-G),Blocks A-G adapted to SBC OpenLib,2026-11-02,"Proceedings and Journals archives, Jan 2000 - Mar 2026, English and Spanish"

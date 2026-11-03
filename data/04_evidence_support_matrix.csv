@@ -1,0 +1,42 @@
+﻿ID,Functional_module,Architecture_pattern,Development_methodology,AI_component,RBAC,SSO_LDAP_OAuth,ABAC_smartcard_QR,Validation_JWT_hash_audit,Workflow_multilevel_hierarchical,Workflow_linear_two_state,Challenge_legacy_interoperability,Challenge_resistance_to_change,Challenge_latency_bottlenecks,Challenge_security_PII
+S1,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,0,0,0,0,1,1,1,1,0
+S2,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,0,0,0,1,0,0,0,1,1
+S3,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),0,0,0,0,0,1,0,0,1,0
+S4,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,0,0,0,0,1,1,1,0,0
+S5,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,0,0,1,1,0,0,0,1,1
+S6,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,0,0,1,0,1,0,0,1,0
+S7,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),0,0,0,0,0,1,0,1,1,0
+S8,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,1,0,1,0,1,1,1,0,0
+S9,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,Machine learning (SVM/NB),1,0,0,0,1,0,0,0,1,1
+S10,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,"Deep learning (CNN, RNN/LSTM)",1,0,0,0,1,0,1,1,0,0
+S11,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,"Deep learning (CNN, RNN/LSTM)",1,0,0,0,0,1,1,1,0,0
+S12,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,"Deep learning (CNN, RNN/LSTM)",1,0,0,0,1,0,0,0,1,1
+S13,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,"Deep learning (CNN, RNN/LSTM)",0,0,0,0,0,1,0,0,1,0
+S14,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,"Deep learning (CNN, RNN/LSTM)",0,0,0,0,0,1,1,1,0,0
+S15,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,"Deep learning (CNN, RNN/LSTM)",0,0,0,0,0,1,1,1,0,0
+S16,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,NLP/Transformers/LLMs,1,0,0,1,1,0,0,0,1,1
+S17,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,NLP/Transformers/LLMs,0,0,0,0,0,1,1,1,0,0
+S18,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,NLP/Transformers/LLMs,0,0,0,0,0,1,1,1,0,0
+S19,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,RPA and BPMN simulation,0,0,0,0,0,1,0,0,1,1
+S20,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,RPA and BPMN simulation,0,0,0,0,0,1,1,0,0,0
+S21,ITSM/tickets,Three-tier/monolithic,Agile/Scrum,RPA and BPMN simulation,0,1,0,1,1,0,1,1,0,0
+S22,Complaints,MVC,Agile/Scrum,RPA and BPMN simulation,1,0,0,0,0,1,0,1,1,0
+S23,Complaints,MVC,Agile/Scrum,No AI (rule-based),1,0,0,0,0,1,1,0,0,1
+S24,Complaints,MVC,Agile/Scrum,No AI (rule-based),1,0,0,0,0,1,0,0,1,0
+S25,Complaints,MVC,Agile/Scrum,No AI (rule-based),1,0,0,0,1,0,1,1,0,0
+S26,Queues/contact center/access,MVC,Agile/Scrum,No AI (rule-based),0,0,0,0,0,1,0,0,1,1
+S27,Queues/contact center/access,MVC,Waterfall,No AI (rule-based),0,0,0,0,0,1,1,1,0,0
+S28,Queues/contact center/access,MVC,Waterfall,No AI (rule-based),0,0,0,0,0,1,1,1,0,0
+S29,Queues/contact center/access,MVC,Waterfall,No AI (rule-based),1,0,1,0,1,0,0,0,1,1
+S30,Queues/contact center/access,MVC,Waterfall,No AI (rule-based),1,0,1,0,0,1,1,1,0,0
+S31,Queues/contact center/access,MVC,Waterfall,No AI (rule-based),1,0,1,0,0,1,1,1,0,0
+S32,Queues/contact center/access,MVC,Waterfall,No AI (rule-based),1,1,1,1,1,0,1,0,0,1
+S33,Governance/administrative processes,Microservices/REST,Waterfall,No AI (rule-based),0,0,0,0,0,1,0,0,1,1
+S34,Governance/administrative processes,Microservices/REST,Waterfall,No AI (rule-based),1,1,0,1,1,0,1,1,0,0
+S35,Governance/administrative processes,Microservices/REST,Waterfall,No AI (rule-based),0,0,0,0,0,1,1,1,0,0
+S36,Governance/administrative processes,Microservices/REST,Waterfall,No AI (rule-based),1,1,0,0,0,0,0,0,1,1
+S37,Governance/administrative processes,Microservices/REST,Waterfall,No AI (rule-based),1,1,0,1,1,0,1,1,0,0
+S38,Governance/administrative processes,Microservices/REST,Waterfall,No AI (rule-based),1,1,0,1,1,0,1,1,0,0
+S39,Queues/contact center/access,Cloud/SaaS/WebRTC,Waterfall,No AI (rule-based),1,1,0,1,1,0,0,1,1,0
+S40,Governance/administrative processes,Cloud/SaaS/WebRTC,Waterfall,No AI (rule-based),0,0,1,0,0,1,1,0,1,1
+S41,Governance/administrative processes,Cloud/SaaS/WebRTC,Waterfall,No AI (rule-based),1,0,0,0,1,0,1,0,1,1
